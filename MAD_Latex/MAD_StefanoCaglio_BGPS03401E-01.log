@@ -1,0 +1,589 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.8)  14 DEC 2020 21:02
+entering extended mode
+**\gdef \conditionmacro{BG;BGPS03401E-01;Istituto Istruzione Secondario Secondo
+ grado;L. Scientifico - Don Milani;Via Rubini;2;ROMANO DI LOMBARDIA;24058;bgis0
+34004@pec.istruzione.it }\input{MAD_StefanoCaglio}
+ (MAD_StefanoCaglio.tex
+("C:\Program Files\MiKTeX\tex/latex/base\letter.cls"
+Document Class: letter 2020/03/11 v1.3b Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\longindentation=\dimen138
+\indentedwidth=\dimen139
+\labelcount=\count175
+)
+("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/10/27 3.51 The Babel package
+
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen140
+\l@babelnohyphens=\language79
+
+("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count177
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX\tex/latex/babel-italian\italian.ldf"
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count178
+\it@doublequoteactive=\count179
+\it@ISOcompliance=\count180
+))
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count181
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen143
+\Hy@linkcounter=\count182
+\Hy@pagecounter=\count183
+
+("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count184
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count185
+
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen144
+
+("C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count186
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+("C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty"
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count187
+\c@Item=\count188
+\c@Hfootnote=\count189
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+("C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count190
+\c@bookmark@seq@number=\count191
+
+("C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip47
+)
+("C:\Program Files\MiKTeX\tex/latex/pdfpages\pdfpages.sty"
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count192
+\calc@Bcount=\count193
+\calc@Adimen=\dimen147
+\calc@Bdimen=\dimen148
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count194
+\calc@Cskip=\skip50
+)
+("C:\Program Files\MiKTeX\tex/latex/eso-pic\eso-pic.sty"
+Package: eso-pic 2020/09/27 v2.0i eso-pic (RN)
+\ESO@tempdima=\dimen149
+\ESO@tempdimb=\dimen150
+)
+\AM@pagewidth=\dimen151
+\AM@pageheight=\dimen152
+
+("C:\Program Files\MiKTeX\tex/latex/pdfpages\pppdftex.def"
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box47
+\AM@global@opts=\toks18
+\AM@pagecnt=\count195
+\AM@toc@title=\toks19
+\c@AM@survey=\count196
+\AM@templatesizebox=\box48
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty"
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box49
+\extrarowheight=\dimen154
+\NC@list=\toks20
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box50
+)
+\TX@col@width=\dimen155
+\TX@old@table=\dimen156
+\TX@old@col=\dimen157
+\TX@target=\dimen158
+\TX@delta=\dimen159
+\TX@cols=\count197
+\TX@ftn=\toks21
+)
+("C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
+("C:\Program Files\MiKTeX\tex/latex/lastpage\lastpage.sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+("C:\Program Files\MiKTeX\tex/latex/enumitem\enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip62
+\enit@outerparindent=\dimen160
+\enit@toks=\toks22
+\enit@inbox=\box51
+\enit@count@id=\count198
+\enitdp@description=\count199
+)
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\enitdp@todolist=\count266
+
+("C:\Program Files\MiKTeX\tex/latex/psnfss\pifont.sty"
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+("C:\Program Files\MiKTeX\tex/latex/psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+("C:\Program Files\MiKTeX\tex/latex/psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count267
+\l__pdf_internal_box=\box52
+)
+(MAD_StefanoCaglio_BGPS03401E-01.aux)
+\openout1 = `MAD_StefanoCaglio_BGPS03401E-01.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Info: Redefining \it@ocap on input line 167.
+LaTeX Info: Redefining \it@ccap on input line 167.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 167.
+
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count268
+\scratchdimen=\dimen161
+\scratchbox=\box53
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen162
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks25
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package hyperref Info: Link coloring OFF on input line 167.
+
+("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count274
+)
+LaTeX Info: Redefining \ref on input line 167.
+LaTeX Info: Redefining \pageref on input line 167.
+LaTeX Info: Redefining \nameref on input line 167.
+
+(MAD_StefanoCaglio_BGPS03401E-01.out) (MAD_StefanoCaglio_BGPS03401E-01.out)
+\@outlinefile=\write3
+\openout3 = `MAD_StefanoCaglio_BGPS03401E-01.out'.
+
+
+("C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty"
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 167.
+
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd")
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd")
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
+
+ []
+
+[1
+
+{C:/Users/Lenovo/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<signature.png, id=16, 191.2746pt x 96.8418pt>
+File: signature.png Graphic file (type png)
+<use signature.png>
+Package pdftex.def Info: signature.png  used on input line 268.
+(pdftex.def)             Requested size: 124.327pt x 62.9464pt.
+<Allegato1_CV_Caglio.pdf, id=17, 597.23125pt x 844.15375pt>
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf  used on input line 273.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf  used on input line 273.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+<Allegato1_CV_Caglio.pdf, id=20, page=1, 597.23125pt x 844.15375pt>
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page1 used on input line 273
+.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page1 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+ [2 <./signature.png>]
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page1 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page1 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page1 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+ [3 <./Allegato1_CV_Caglio.pdf>]
+<Allegato1_CV_Caglio.pdf, id=115, page=2, 597.23125pt x 844.15375pt>
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 2>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page2 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 2>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page2 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 2>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page2 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+ [4 <./Allegato1_CV_Caglio.pdf>]
+<Allegato1_CV_Caglio.pdf, id=139, page=3, 597.23125pt x 844.15375pt>
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 3>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page3 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 3>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page3 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 3>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page3 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+
+[5 <./Allegato1_CV_Caglio.pdf>]
+<Allegato1_CV_Caglio.pdf, id=162, page=4, 597.23125pt x 844.15375pt>
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 4>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page4 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 4>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page4 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 4>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page4 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+ [6 <./Allegato1_CV_Caglio.pdf>]
+<Allegato1_CV_Caglio.pdf, id=179, page=5, 597.23125pt x 844.15375pt>
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 5>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page5 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 5>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page5 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+File: Allegato1_CV_Caglio.pdf Graphic file (type pdf)
+<use Allegato1_CV_Caglio.pdf, page 5>
+Package pdftex.def Info: Allegato1_CV_Caglio.pdf , page5 used on input line 273
+.
+(pdftex.def)             Requested size: 562.52745pt x 795.10185pt.
+ [7 <./Allegato1_CV_Caglio.pdf>]
+<Allegato2_CI_Caglio.pdf, id=197, 597.55246pt x 845.07718pt>
+File: Allegato2_CI_Caglio.pdf Graphic file (type pdf)
+<use Allegato2_CI_Caglio.pdf>
+Package pdftex.def Info: Allegato2_CI_Caglio.pdf  used on input line 274.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Allegato2_CI_Caglio.pdf Graphic file (type pdf)
+<use Allegato2_CI_Caglio.pdf>
+Package pdftex.def Info: Allegato2_CI_Caglio.pdf  used on input line 274.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+<Allegato2_CI_Caglio.pdf, id=200, page=1, 597.55246pt x 845.07718pt>
+File: Allegato2_CI_Caglio.pdf Graphic file (type pdf)
+<use Allegato2_CI_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato2_CI_Caglio.pdf , page1 used on input line 274
+.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Allegato2_CI_Caglio.pdf Graphic file (type pdf)
+<use Allegato2_CI_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato2_CI_Caglio.pdf , page1 used on input line 274
+.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Allegato2_CI_Caglio.pdf Graphic file (type pdf)
+<use Allegato2_CI_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato2_CI_Caglio.pdf , page1 used on input line 274
+.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Allegato2_CI_Caglio.pdf Graphic file (type pdf)
+<use Allegato2_CI_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato2_CI_Caglio.pdf , page1 used on input line 274
+.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Allegato2_CI_Caglio.pdf Graphic file (type pdf)
+<use Allegato2_CI_Caglio.pdf, page 1>
+Package pdftex.def Info: Allegato2_CI_Caglio.pdf , page1 used on input line 274
+.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+ [8 <./Allegato2_CI_Caglio.pdf>]
+
+AED: lastpage setting LastPage
+(MAD_StefanoCaglio_BGPS03401E-01.aux)
+Package rerunfilecheck Info: File `MAD_StefanoCaglio_BGPS03401E-01.out' has not
+ changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 8220 strings out of 479832
+ 123148 string characters out of 2880870
+ 446746 words of memory out of 3000000
+ 25003 multiletter control sequences out of 15000+200000
+ 542032 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,17n,80p,677b,555s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Lenovo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTe
+X/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on MAD_StefanoCaglio_BGPS03401E-01.pdf (8 pages, 587966 bytes).
+PDF statistics:
+ 244 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
