@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=MAD_StefanoCaglio.tex
 
 [Frame0_View0,0]
-TopLine=238
-Cursor=8953
+TopLine=188
+Cursor=5331
 
 [SessionInfo]
 FrameCount=1
